@@ -6,30 +6,30 @@ header{
     background-color: #EAEAEA;
     padding: 5px 0 40px 10px;
     font-weight: bold;
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 #left{
     background-color: #C8FC98;
-    width: 200px;
+    width: 25%;
     float: left;
     line-height: 20px;
     padding: 0 10px 10px 10px;
 }
 
 b{
-    font-size: 18px;
+    font-size: 19px;
 }
 
 #content{
-    width: calc(100%-200px);
-    padding-left: 225px;
     line-height: 20px;
+    padding-left: 26.8%;
+    padding-right: 205px;
 }
 
 footer{
     background-color: black;
-    clear:left;
+    clear:both;
     text-align: center;
     height: 20px;
     padding: 3px;
@@ -38,4 +38,13 @@ footer{
 a{
     color: #FFFF80;
     font-size: 13px;
+}
+
+#right{
+    background-color: #FDE95E;
+    float: right;
+    width: 200px;
+    padding: 0 10px 10px 10px;
+    line-height: 20px;
+
 }
