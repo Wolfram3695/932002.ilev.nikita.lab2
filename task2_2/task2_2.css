@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #EAEAEA;
+    padding: 5px 0 40px 10px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+#left{
+    background-color: #C8FC98;
+    width: 200px;
+    float: left;
+    line-height: 20px;
+    padding: 0 10px 10px 10px;
+}
+
+b{
+    font-size: 18px;
+}
+
+#content{
+    width: calc(100%-200px);
+    padding-left: 225px;
+    line-height: 20px;
+}
+
+footer{
+    background-color: black;
+    clear:left;
+    text-align: center;
+    height: 20px;
+    padding: 3px;
+}
+
+a{
+    color: #FFFF80;
+    font-size: 13px;
+}
