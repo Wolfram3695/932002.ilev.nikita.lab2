@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+#block{
+    background-color: aqua;
+    margin: 8px;
+}
+
+#list{
+    background-color: bisque;
+    width: 200px;
+    height: 90px;
+}
+
+ul{
+    padding-top: 15px;
+}
+
+#text{
+    background-color: grey;
+    margin-left: 200px;
+    margin-top: -90px;
+}
+
+#green{
+    background-color: limegreen;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    bottom: 0;
+}
