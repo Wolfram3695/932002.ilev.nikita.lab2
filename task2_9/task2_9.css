@@ -1,0 +1,12 @@
+#block{
+    background-color: blue;
+    width: 600px;
+    margin: auto;
+    color: white;
+}
+
+img{
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
