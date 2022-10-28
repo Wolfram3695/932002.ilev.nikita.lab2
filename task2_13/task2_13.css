@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+#box{
+    background-color: aqua;
+    border: 2px solid forestgreen;
+    float: left;
+    margin: 8px;
+}
+
+#list{
+    background-color: bisque;
+    width: 25%;
+    float: left;
+    font-size: 13px;
+}
+
+ul{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#text{
+    background-color: darkgray;
+    float: left;
+    width: 75%;
+    font-size: 13px;
+}
+
+img{
+    float: right;
+    width: 50%;
+}
+
+#text_2{
+    clear: right;
+}
