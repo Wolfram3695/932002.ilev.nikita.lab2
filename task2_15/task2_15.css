@@ -1,0 +1,13 @@
+.inline{
+    display: inline-block;
+    background-color: aquamarine;
+    height: 80px;
+    width: 150px;
+    margin: 15px;
+    font-size: 13px;
+}
+
+#box{
+    background-color: bisque;
+    width: 100%;
+}
