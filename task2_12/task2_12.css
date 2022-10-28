@@ -1,0 +1,19 @@
+#box{
+    background-color: aqua;
+    margin: 5px;
+    border: 2px solid forestgreen;
+    float: left;
+}
+
+#list{
+    background-color: bisque;
+    float: left;
+    width: 25%;
+    margin-right: 10px;
+}
+
+#text{
+    background-color: darkgrey;
+    float: left;
+    width: 74%;
+}
